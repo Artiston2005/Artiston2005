@@ -113,20 +113,15 @@ Secure, cross-platform network architecture with automated failover, traffic rou
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artiston2005&theme=github_dark" width="100%"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Artiston2005&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Artiston2005&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Artiston2005&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Artiston2005&theme=github_dark&utcOffset=5.5"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Artiston2005&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&rank_icon=github"/>
+  &nbsp;
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artiston2005&layout=donut&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=c9d1d9&langs_count=8"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Artiston2005&theme=dark&hide_border=true&background=0D1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=888888&dates=888888&sideNums=ffffff&currStreakNum=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=Artiston2005&theme=dark&hide_border=true&background=0D1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=888888&dates=888888&sideNums=ffffff&currStreakNum=ffffff&type=svg" width="70%"/>
 </div>
 
 <br>
