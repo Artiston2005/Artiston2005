@@ -11,7 +11,7 @@
 &nbsp;
 <a href="https://www.instagram.com/theenthusiast_24/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:ashwin.yadav@example.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:ashwinyadav2408@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white"/></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Artiston2005&style=flat-square&color=00ff88&label=Profile+Views"/>
 
@@ -27,6 +27,7 @@ class AshwinYadav:
     name        = "Ashwin Yadav"
     role        = "Systems Engineer & CSE Student @ GIT Jaipur"
     location    = "Jaipur, Rajasthan, India 🇮🇳"
+    email       = "ashwinyadav2408@gmail.com"
     focus       = ["Agentic AI", "Network Architecture", "Android Systems"]
     languages   = ["Python", "Kotlin", "C/C++", "TypeScript", "Bash"]
     philosophy  = "I don't build apps. I architect intelligent ecosystems."
@@ -37,8 +38,16 @@ class AshwinYadav:
         "WebSocket Engine":    "Real-time bidirectional stream manager for LLM pipelines",
     }
 
+    fun_facts = [
+        "🤖 I run local LLMs on my own hardware — privacy first.",
+        "📡 I've mapped and automated my entire campus network.",
+        "🐧 Daily-driving Linux; my terminal is my IDE.",
+        "⚡ I think in systems, not features.",
+    ]
+
     def greet(self):
         print(f"Hey, I'm {self.name}. Let's build something that thinks. 🧠")
+        print(f"Reach me → {self.email}")
 ```
 
 ---
