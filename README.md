@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=280&section=header&text=Ashwin%20Yadav&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Systems%20Engineer%20%7C%20Agentic%20AI%20%7C%20Network%20Architect&descSize=20&descAlignY=62&descAlign=50&stroke=00ff88&strokeWidth=2" width="100%"/>
 
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=580&lines=Always+building%2C+always+shipping.+%E2%9A%A1;I+architect+intelligent+ecosystems.+%F0%9F%A7%A0;Not+apps+%E2%80%94+autonomous+platforms.+%F0%9F%A4%96)](https://git.io/typing-svg)
@@ -115,7 +116,14 @@ Cross-platform network architecture with automated failover, secure traffic rout
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Artiston2005&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-00ff88?style=flat-square&logo=github&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Builder-00ff88?style=flat-square&logo=openai&logoColor=white)
+![Android Dev](https://img.shields.io/badge/Android-Developer-00ff88?style=flat-square&logo=android&logoColor=white)
+![Networking](https://img.shields.io/badge/Network-Architect-00ff88?style=flat-square&logo=cisco&logoColor=white)
+![LLM Eng](https://img.shields.io/badge/LLM-Engineer-00ff88?style=flat-square&logo=ollama&logoColor=white)
+![Linux Power User](https://img.shields.io/badge/Linux-Power%20User-00ff88?style=flat-square&logo=linux&logoColor=white)
+
 </div>
 
 ---
