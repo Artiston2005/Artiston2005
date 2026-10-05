@@ -7,13 +7,14 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/ashwin-yadav-1704a1248"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ashwin-yadav-1704a1248"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://www.instagram.com/theenthusiast_24/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/theenthusiast_24/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:ashwin.yadav@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:ashwin.yadav@example.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white"/></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Artiston2005&style=flat-square&color=00ff88&label=Profile+Views"/>
+
 
 </div>
 
