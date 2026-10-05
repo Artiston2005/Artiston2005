@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=300&section=header&text=Ashwin%20Yadav&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Systems%20Engineer%20%7C%20Agentic%20AI%20%7C%20Network%20Architect&descSize=20&descAlignY=62&descAlign=50&stroke=00ff88&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=280&section=header&text=Ashwin%20Yadav&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Systems%20Engineer%20%7C%20Agentic%20AI%20%7C%20Network%20Architect&descSize=20&descAlignY=62&descAlign=50&stroke=00ff88&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=560&lines=Always+building%2C+always+shipping.+⚡;I+architect+intelligent+ecosystems.+🧠;Not+apps+—+autonomous+platforms.+🤖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=580&lines=Always+building%2C+always+shipping.+%E2%9A%A1;I+architect+intelligent+ecosystems.+%F0%9F%A7%A0;Not+apps+%E2%80%94+autonomous+platforms.+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <br>
 
-<a href="https://www.linkedin.com/in/ashwin-yadav-1704a1248"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>
+<a href="https://www.linkedin.com/in/ashwin-yadav-1704a1248"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="https://www.instagram.com/theenthusiast_24/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 &nbsp;
@@ -18,11 +18,7 @@
 
 ---
 
-<div align="center">
-
-### `$ whoami`
-
-</div>
+<div align="center"><sub><code>$ whoami</code></sub></div>
 
 ```python
 class AshwinYadav:
@@ -34,8 +30,8 @@ class AshwinYadav:
     philosophy  = "I don't build apps. I architect intelligent ecosystems."
 
     currently_building = {
-        "Agentic AI Platform": "Multi-agent orchestration with persistent memory + LLM tool-calling",
-        "Campus Auth Bot":     "Kotlin + Firebase auto-login for campus captive portals",
+        "Agentic AI Platform": "Multi-agent orchestration · long-term memory · LLM tool-calling",
+        "Campus Auth Bot":     "Kotlin + Firebase · silent captive portal auto-login",
         "WebSocket Engine":    "Real-time bidirectional stream manager for LLM pipelines",
     }
 
@@ -51,32 +47,29 @@ class AshwinYadav:
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 Agentic AI Platform
-Local multi-agent system with long-term memory, LLM tool-calling via Python subprocess sandboxes, and WebSocket-based inter-agent communication.
+**🤖 Agentic AI Platform**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+Local multi-agent system with long-term memory, Python subprocess sandboxes for LLM tool-calling, and WebSocket inter-agent communication.
 
-</td>
-<td width="33%" valign="top">
-
-### 📱 Campus Auth Automator
-Android app that silently auto-authenticates through the campus captive portal — no more manual logins across 5 devices.
-
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+`Python` `WebSockets` `SQLite` `LLMs`
 
 </td>
 <td width="33%" valign="top">
 
-### 🌐 Network Orchestrator
-Secure, cross-platform network architecture with automated failover, traffic routing, and real-time monitoring.
+**📱 Campus Auth Automator**
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+Android app that silently authenticates through the campus captive portal — zero manual logins across all devices.
+
+`Kotlin` `Firebase` `Android` `Automation`
+
+</td>
+<td width="33%" valign="top">
+
+**🌐 Network Orchestrator**
+
+Cross-platform network architecture with automated failover, secure traffic routing, and real-time monitoring.
+
+`Linux` `Bash` `Node.js` `Networking`
 
 </td>
 </tr>
@@ -88,19 +81,20 @@ Secure, cross-platform network architecture with automated failover, traffic rou
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,kotlin,c,cpp,typescript,bash&theme=dark&perline=6" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase,react,nodejs,git,linux&theme=dark&perline=6" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=github,vscode,sqlite,figma,postman,docker&theme=dark&perline=6" />
+**Languages**
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,kotlin,c,cpp,typescript,bash&theme=dark&perline=6"/>
+
+**Mobile · Frontend · Backend**
+
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,react,nodejs,git,linux&theme=dark&perline=6"/>
+
+**Tools · DevOps · Infra**
+
+<img src="https://skillicons.dev/icons?i=github,vscode,sqlite,figma,postman,docker&theme=dark&perline=6"/>
 
 <br>
 
-<div align="center">
-
-<!-- AI/ML Tools -->
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -113,15 +107,9 @@ Secure, cross-platform network architecture with automated failover, traffic rou
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Artiston2005&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&rank_icon=github"/>
-  &nbsp;
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artiston2005&layout=donut&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=c9d1d9&langs_count=8"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Artiston2005&theme=dark&hide_border=true&background=0D1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=888888&dates=888888&sideNums=ffffff&currStreakNum=ffffff&type=svg" width="70%"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Artiston2005&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&rank_icon=github"/>
+  &nbsp;&nbsp;
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artiston2005&layout=donut&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=c9d1d9&langs_count=8"/>
 </div>
 
 <br>
@@ -132,10 +120,23 @@ Secure, cross-platform network architecture with automated failover, traffic rou
 
 ---
 
-## 📈 Contribution Activity
+## 🧭 Engineering Philosophy
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Artiston2005&bg_color=0D1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8820&hide_border=true" width="100%"/>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   "Complexity is the enemy. Autonomy is the goal."             │
+│                                                                 │
+│   Every system I build is designed to:                         │
+│     ✦  Think independently                                     │
+│     ✦  Fail gracefully                                         │
+│     ✦  Scale without intervention                              │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 ---
